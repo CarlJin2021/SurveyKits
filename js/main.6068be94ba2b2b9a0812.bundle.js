@@ -9,31 +9,27 @@
 /* harmony default export */ const data = ([{
   feature: "Virtual Click",
   status: "done",
-  detail: "Use the keyboard instead of the left mouse button to click, which will save a lot of time in large surveys"
+  detail: "[Virtual Click] allows You Use the keyboard instead of the left mouse button to click, which will save a lot of time in large surveys"
 }, {
   feature: "Trap Detector",
   status: "done",
-  detail: "Highlight Trap Question and increase survey pass rate"
+  detail: "[Trap Detector] wills Highlight Trap Question and increase survey pass rate"
 }, {
   feature: "Prime-game Auto Play",
   status: "done",
-  detail: "autoplay the Sentientprime"
+  detail: "[Prime-game Auto Play] allow you play Sentientprime game automatically"
 }, {
   feature: "Virtual Webcam",
   status: "none",
-  detail: "Some surveys require a webcam, if you don’t want to use your own webcam, this Feature can replace it"
+  detail: " [Virtual Webcam] Allows You use Virtual Cam instead of built-in WebCam, some of Surveys that require a webcam, if you don't want to use built-in WebCam,this Feature will be you best choice"
 }, {
   feature: "Auto fill it up",
   status: "none",
-  detail: "auto fill up some of base information, like \"age\", \"liveing state\", \"DOB\"..."
+  detail: "[Auto fill it up] allows you fill up some basic information, like \"age\",\"living state\", \"BOA\""
 }, {
   feature: "Surveys Filter",
   status: "none",
-  detail: "Filter out some long-term and low credit surveys, such as 0.30 cents for 20 minutes"
-}, {
-  feature: "HSCN",
-  status: "none",
-  detail: "High-credit surveys notifications, set up notifications for some high-credit investigations about \"swagbucks\" and \"qmee\"..."
+  detail: "[Surveys Filter] wills send a notification that that reminds you never miss high-pay Survey if that available right now."
 }]);
 ;// CONCATENATED MODULE: ./src/index.js
 
